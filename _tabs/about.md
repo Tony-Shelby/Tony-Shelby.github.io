@@ -6,8 +6,8 @@ order: 4
 Hi, I am Newton Ashiundu, an Ethical Hacker specializing in the intersection of offensive security and network infrastructure.
 
  🏆 Certifications & Professional Achievements
-Network Operations I** — Internet Society (ISOC) | In Progress
-Ethical Hacker Certification** — CyberShujaa
+Network Operations I — Internet Society (ISOC) | In Progress
+Ethical Hacker Certification — CyberShujaa
 Junior Ethical Hacker Certification — Cisco
 
  🛠️ Technical Skill Set
