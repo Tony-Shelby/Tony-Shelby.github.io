@@ -3,9 +3,18 @@
 icon: fas fa-info-circle
 order: 4
 ---
-Hi, I am Newton Ashiundu, an Ethical Hacker specializing in the intersection of offensive security and network infrastructure. 
+Hi, I am Newton Ashiundu, an Ethical Hacker specializing in the intersection of offensive security and network infrastructure.
 
-Ethical Hacking & Pentesting:Focused on network security assessments, vulnerability exploitation, and infrastructure hardening. I look at environments through an attacker's lens to identify flaws before they can be exploited.
+ 🏆 Certifications & Professional Achievements
+Network Operations I** — Internet Society (ISOC) | In Progress
+Ethical Hacker Certification** — CyberShujaa
+Junior Ethical Hacker Certification — Cisco
 
-Network Operations:Currently expanding my core infrastructure knowledge through the ISOC Network Operations I curriculum. I focus on routing, internet protocols, and operational stability because you cannot truly secure a network without deeply understanding how it runs.
+ 🛠️ Technical Skill Set
+Network Operations: Routing & Switching, Protocol Analysis, Infrastructure Hardening
+Penetration Testing:Network Security Assessments, Vulnerability Exploitation, Infrastructure Enumeration
+Tools & Environments:Kali Linux, Ubuntu, Termux, Nmap, Metasploit, Wireshark
 
+🚀 Key Focus & Projects
+Infrastructure Security:Merging core networking fundamentals with hands-on penetration testing and defensive security principles.
+Network Operations Labs:Actively building and documenting secure routing environments and network configurations.
