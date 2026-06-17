@@ -7,7 +7,7 @@ Hi, I am Newton Ashiundu, an Ethical Hacker specializing in the intersection of 
 
  🏆 Certifications & Professional Achievements
  
-Network Operations I — Internet Society (ISOC) | In Progress
+Network Operations — Internet Society (ISOC) 
 
 Internet Governance - ISOC
 
